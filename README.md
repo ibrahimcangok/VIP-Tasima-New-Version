@@ -1,1 +1,2 @@
-# Eksik Fonksiyonlar Tamamlandı !!
+# Eksik Classlar tamamlandı.
+a
