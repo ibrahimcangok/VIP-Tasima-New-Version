@@ -1,2 +1,3 @@
-# Eksik Classlar tamamlandı.
-a
+# Java Proje 
+Eksik Class'lar tamamlandı.
+Swing eklendi.
